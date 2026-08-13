@@ -17,7 +17,7 @@
 ### 安装
 
 ```bash
-git clone https://github.com/YOUR_NAME/gstack-agent.git
+git clone https://github.com/wacke1/gstack-agent.git
 cd gstack-agent
 pip install -e .
 ```
