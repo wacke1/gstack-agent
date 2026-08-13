@@ -1,0 +1,2 @@
+[console_scripts]
+gstack-agent = gstack_agent.cli:main

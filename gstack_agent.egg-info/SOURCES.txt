@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+gstack_agent/__init__.py
+gstack_agent/__main__.py
+gstack_agent/ceo_review.py
+gstack_agent/cli.py
+gstack_agent/investigate.py
+gstack_agent/llm.py
+gstack_agent/office_hours.py
+gstack_agent.egg-info/PKG-INFO
+gstack_agent.egg-info/SOURCES.txt
+gstack_agent.egg-info/dependency_links.txt
+gstack_agent.egg-info/entry_points.txt
+gstack_agent.egg-info/requires.txt
+gstack_agent.egg-info/top_level.txt
