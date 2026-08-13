@@ -7,7 +7,7 @@ name = "gstack-agent"
 version = "0.1.0"
 description = "把 YC CEO 的思考方法变成你的 AI 助手"
 readme = "README.md"
-license = {text = "MIT"}
+license = "MIT"
 requires-python = ">=3.10"
 authors = [{name = "gstack-agent"}]
 dependencies = ["requests>=2.28"]
